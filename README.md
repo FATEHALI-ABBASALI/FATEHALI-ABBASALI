@@ -21,15 +21,15 @@
 
 
 
-- 🔭 I’m currently working on [Hotel Management System](https://github.com/fam2210/HOTEL-MANAGMENT-SYSTEM-USING-C-)
+- 🔭 I’m currently working on [Hotel Management System](https://github.com/FATEHALI-ABBASALI/Hotel_Mangment_Master.git)
 
 - 🌱 I’m currently learning **Cloud Security (Azure, AWS) - Cybersecurity & Ethical Hacking Techniques**
 
-- 👯 I’m looking to collaborate on [Cybersecurity Tools & Pentesting Projects](https://github.com/fam2210)
+- 👯 I’m looking to collaborate on [Cybersecurity Tools & Pentesting Projects](https://github.com/FATEHALI-ABBASALI)
 
-- 🤝 I’m looking for help with [Advanced Threat Detection in SOC Projects](https://github.com/fam2210)
+- 🤝 I’m looking for help with [Advanced Threat Detection in SOC Projects](https://github.com/FATEHALI-ABBASALI)
 
-- 👨‍💻 All of my projects are available at [[GitHub Portfolio](https://github.com/fam2210)]([GitHub Portfolio](https://github.com/fam2210))
+- 👨‍💻 All of my projects are available at [[GitHub Portfolio](https://github.com/FATEHALI-ABBASALI)]([GitHub Portfolio](https://github.com/FATEHALI-ABBASALI))
 
 - 💬 Ask me about **🔐 Cybersecurity & Ethical Hacking - ☁️ Cloud & SOC Operations**
 
@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatehali abbasali moknojiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatehali abbasali moknojiya" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/fatehali-abbasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatehali abbasali moknojiya" height="30" width="40" /></a>
 <a href="https://fb.com/fam don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fam don" height="30" width="40" /></a>
 <a href="https://instagram.com/hacker_official_2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hacker_official_2210" height="30" width="40" /></a>
 </p>
