@@ -37,10 +37,7 @@
 
 - ⚡ Fun fact **"I break into systems not to destroy… but to make them stronger." 🔐**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/fatehali-abbasali" target="blank"></a>
-</p>
+
 <pre>
   
 </pre>
