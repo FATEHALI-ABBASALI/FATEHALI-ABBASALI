@@ -26,7 +26,7 @@
 - 👨‍💻 All projects available at 👉  
   **[GitHub Portfolio](https://github.com/FATEHALI-ABBASALI)**
 - 💬 Ask me about **Cloud Computing | Java | J2EE | Backend Development**
-- 📫 Reach me at **fatehali2210@gmail.com**
+- 📫 Reach me at **fattehaliabbasali6@gmail.com**
 - ⚡ Fun fact: *“I build applications that scale in the cloud.” ☁️*
 
 ---
