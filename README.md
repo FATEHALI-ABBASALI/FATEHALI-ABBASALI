@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FATEHALI ABBASALI MAKNOJIYA</h1>
-<h3 align="center">☁️ Cloud Engineer | ☕ Java J2EE Developer | 🌍 India</h3>
+<h3 align="center">☁️ Cloud Engineer | ☕ Java J2EE Developer | 🧩 .NET & ASP.NET  | 🔐 Cybersecurity Enthusiast | 🌍 India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fam2210&label=Profile%20views&color=0e75b6&style=flat" alt="fam2210" />
@@ -16,33 +16,38 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently working on **Hotel Management System (Java + Database + Cloud Ready)**
-- 🌱 Learning **Cloud Engineering (AWS, Azure, GCP) & Java Enterprise (J2EE)**
-- ☁️ Hands-on with **EC2, IAM, S3, VPC, Azure VM, Storage & Cloud Security Basics**
-- 👯 Looking to collaborate on **Cloud-Based Applications & Java Backend Projects**
-- 🤝 Seeking guidance on **Scalable Cloud Architecture & DevOps Integration**
+- 🔭 Currently working on **Hotel Management System (Java / .NET + Database + Cloud Ready)**
+- 🌱 Learning **Cloud Engineering, DevOps & Enterprise Application Development**
+- ☁️ Hands-on with **AWS (EC2, IAM, S3, VPC), Azure VM, Storage & Cloud Security Basics**
+- 🧩 Experience with **Java J2EE, .NET, ASP.NET (Basics) & Backend Development**
+- 🔐 Exploring **Cybersecurity Fundamentals** (Network Security, OWASP, System Security)
+- 👯 Looking to collaborate on **Cloud-Based, DevOps & Backend Projects**
+- 🤝 Seeking guidance on **Scalable Cloud Architecture & CI/CD Pipelines**
 - 👨‍💻 All projects available at 👉  
   **[GitHub Portfolio](https://github.com/FATEHALI-ABBASALI)**
-- 💬 Ask me about **Cloud Computing | Java | J2EE | Backend Development**
+- 💬 Ask me about **Cloud Computing | Java | .NET | DevOps | Cybersecurity**
 - 📫 Reach me at **fattehaliabbasali6@gmail.com**
-- ⚡ Fun fact: *“I build applications that scale in the cloud.” ☁️*
+- ⚡ Fun fact: *“I love building secure and scalable systems.” ☁️*
 
 ---
 
-<h3 align="left">🧠 Core Skills</h3>
+## 🧠 Core Skills
 
-✅ Cloud Computing (AWS, Azure, GCP)  
+✅ Cloud Computing (AWS, Azure, GCP – Basics)  
+✅ DevOps Fundamentals (CI/CD, Docker, Kubernetes – Basics)  
 ✅ Java SE & Java EE (J2EE)  
-✅ Backend Development  
-✅ REST APIs & MVC Architecture  
-✅ SQL & Database Design  
+✅ .NET & ASP.NET (Basics)  
+✅ Backend Development & REST APIs  
+✅ SQL, RDBMS & Database Design  
+✅ Cybersecurity Fundamentals  
 ✅ Linux & Bash Scripting  
+✅ MVC Architecture & Software Engineering Concepts  
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+## 🛠️ Languages and Tools
 
 <p align="left">
 
@@ -53,6 +58,7 @@
 
 <!-- Programming Languages -->
 <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 
@@ -71,6 +77,10 @@
 <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
 <a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
 <a href="https://www.terraform.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/></a>
+
+<!-- Cybersecurity -->
+<a href="https://owasp.org"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40" height="40"/></a>
 
 <!-- OS & Version Control -->
 <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
@@ -90,4 +100,3 @@
 
 <img align="right" height="300" width="500"
 src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
