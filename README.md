@@ -93,5 +93,11 @@
 
 ---
 
-<img align="center" height="280" width="480"
-src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"
+    style="width:100%; max-width:100%;"
+    alt="coding animation"
+  />
+</div>
+
