@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FATEHALI ABBASALI MAKNOJIYA</h1>
-<h3 align="center">☁️ Cloud Engineer | ☕ Java J2EE Developer | 🧩 .NET & ASP.NET  | 🔐 Cybersecurity Enthusiast | 🌍 India</h3>
+<h3 align="center">☁️ Cloud Engineer | ☕ Java J2EE | ⚙️ .NET & ASP.NET Developer | 🌍 India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fam2210&label=Profile%20views&color=0e75b6&style=flat" alt="fam2210" />
@@ -18,85 +18,80 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Hotel Management System (Java / .NET + Database + Cloud Ready)**
-- 🌱 Learning **Cloud Engineering, DevOps & Enterprise Application Development**
-- ☁️ Hands-on with **AWS (EC2, IAM, S3, VPC), Azure VM, Storage & Cloud Security Basics**
-- 🧩 Experience with **Java J2EE, .NET, ASP.NET (Basics) & Backend Development**
-- 🔐 Exploring **Cybersecurity Fundamentals** (Network Security, OWASP, System Security)
-- 👯 Looking to collaborate on **Cloud-Based, DevOps & Backend Projects**
-- 🤝 Seeking guidance on **Scalable Cloud Architecture & CI/CD Pipelines**
-- 👨‍💻 All projects available at 👉  
-  **[GitHub Portfolio](https://github.com/FATEHALI-ABBASALI)**
-- 💬 Ask me about **Cloud Computing | Java | .NET | DevOps | Cybersecurity**
-- 📫 Reach me at **fattehaliabbasali6@gmail.com**
-- ⚡ Fun fact: *“I love building secure and scalable systems.” ☁️*
+- 🔭 Working on **Hotel Management System using Java, .NET, Database & Cloud Architecture**
+- ☁️ Cloud Engineer focused on **AWS, Azure & GCP-based application deployment**
+- ⚙️ Backend Developer with **Java J2EE, .NET & ASP.NET**
+- 🔐 Security-aware developer with knowledge of **Cybersecurity & Secure Coding**
+- 🚀 Passionate about **DevOps, CI/CD pipelines & Cloud Automation**
+- 👯 Open to collaborate on **Cloud, DevOps & Enterprise Backend Projects**
+- 🤝 Actively seeking **Internship / Entry-Level Software & Cloud Roles**
+- 👨‍💻 GitHub Portfolio: **https://github.com/FATEHALI-ABBASALI**
+- 📫 Email: **fattehaliabbasali6@gmail.com**
+- ⚡ Fun fact: *I design systems that are scalable, secure, and cloud-ready.*
 
 ---
 
 ## 🧠 Core Skills
 
-✅ Cloud Computing (AWS, Azure, GCP – Basics)  
-✅ DevOps Fundamentals (CI/CD, Docker, Kubernetes – Basics)  
-✅ Java SE & Java EE (J2EE)  
-✅ .NET & ASP.NET (Basics)  
-✅ Backend Development & REST APIs  
-✅ SQL, RDBMS & Database Design  
-✅ Cybersecurity Fundamentals  
-✅ Linux & Bash Scripting  
-✅ MVC Architecture & Software Engineering Concepts  
+- ☁️ Cloud Computing (AWS, Azure, GCP)
+- ⚙️ DevOps & CI/CD Automation
+- ☕ Java SE & Java EE (J2EE)
+- 🧩 .NET Framework & ASP.NET
+- 🔧 Backend Development & RESTful APIs
+- 🗄️ SQL, RDBMS & Database Design
+- 🔐 Cybersecurity & Secure Application Practices
+- 🐧 Linux System Administration & Bash
+- 🏗️ MVC Architecture & Software Engineering Principles
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
+### ☁️ Cloud Platforms
 <p align="left">
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/></a>
+  <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/></a>
+</p>
 
-<!-- Cloud Platforms -->
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-<a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
+### 💻 Programming & Backend
+<p align="left">
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/></a>
+  <a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/></a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
+</p>
 
-<!-- Programming Languages -->
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
+  <a href="https://www.oracle.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/></a>
+</p>
 
-<!-- Java Frameworks & Tools -->
-<a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://maven.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40" height="40"/></a>
-<a href="https://gradle.org"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" width="40" height="40"/></a>
-<a href="https://tomcat.apache.org"><img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="40" height="40"/></a>
+### 🚀 DevOps & Automation
+<p align="left">
+  <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/></a>
+  <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/></a>
+  <a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/></a>
+  <a href="https://www.terraform.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/></a>
+  <a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/></a>
+</p>
 
-<!-- Databases -->
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.oracle.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+### 🔐 Cybersecurity
+<p align="left">
+  <a href="https://owasp.org"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="45"/></a>
+</p>
 
-<!-- DevOps & Cloud Tools -->
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
-<a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
-<a href="https://www.terraform.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/></a>
-
-<!-- Cybersecurity -->
-<a href="https://owasp.org"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="40" height="40"/></a>
-
-<!-- OS & Version Control -->
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-
-<!-- Frontend Basics -->
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-
-<!-- API & IDE -->
-<a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-
+### 🧰 OS, Tools & IDEs
+<p align="left">
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
+  <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
+  <a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/></a>
 </p>
 
 ---
 
-<img align="right" height="300" width="500"
+<img align="right" height="280" width="480"
 src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
