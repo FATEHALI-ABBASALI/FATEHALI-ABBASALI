@@ -93,5 +93,5 @@
 
 ---
 
-<img align="right" height="280" width="480"
+<img align="center" height="280" width="480"
 src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
