@@ -4,8 +4,7 @@
 <meta name="description" content="Cloud Engineer and Backend Developer specializing in Java J2EE, .NET, AWS, Azure, DevOps, and secure cloud-native applications.">
 <meta name="keywords" content="Cloud Engineer India, Java J2EE Developer, .NET Developer, DevOps Engineer, AWS, Azure, Backend Developer, Cybersecurity">
 <meta name="author" content="Fatehali Abbasali">
-google-site-verification: google9acf81d867b14c4e.html
-<p align="left">
+<meta name="google-site-verification" content="drGQFNZs8vc7sn6Vsg1e1UYtql4ndjmrQ8dH095arSI" /><p align="left">
   <img src="https://komarev.com/ghpvc/?username=fam2210&label=Profile%20views&color=0e75b6&style=flat" alt="fam2210" />
 </p>
 
